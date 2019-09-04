@@ -5,4 +5,4 @@ a script that gets statistics from a pdf file by counting words/numbers/repitito
 
   - re
   - pdfminer
-  - os
+  - io
